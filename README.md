@@ -14,12 +14,12 @@ This project analyzes Airbnb customer reviews using Natural Language Processing 
 * Identify the most frequently mentioned words in customer reviews.
 * Analyze common words in positive and negative reviews.
 * Derive meaningful business insights from customer feedback.
-
+  
 ## Dataset
 
-The dataset contains Airbnb guest reviews from Paris. The `comments` column was used as the primary text field for sentiment analysis.
+The project uses an Airbnb guest reviews dataset from Paris. The `comments` column was used as the primary text field for sentiment analysis.
 
-A random sample of up to 10,000 reviews was selected for analysis. After language detection, English-language reviews were retained for VADER sentiment analysis.
+Due to the large size of the original dataset, the raw dataset is not included in this GitHub repository. A random sample of up to 10,000 reviews was selected for analysis, and English-language reviews were retained for VADER sentiment analysis.
 
 ## Tools & Technologies
 
