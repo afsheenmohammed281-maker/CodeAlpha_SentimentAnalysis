@@ -23,8 +23,6 @@ The dataset contains Airbnb guest reviews from listings in Paris. The main text 
 
 The dataset contains multilingual reviews. A random sample of up to 10,000 reviews was selected for analysis, and English-language reviews were retained for VADER sentiment analysis.
 
-> **Note:** If the dataset is not included in this repository due to redistribution restrictions, place the required `reviews.csv` file in the project directory before running the notebook.
-
 ## Technologies Used
 
 * Python
